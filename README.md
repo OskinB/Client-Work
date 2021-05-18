@@ -1,6 +1,6 @@
 # Client Work
 
-Summary of my work kept here in Readme, while my portfolio site is in development. Here are 3 examples:
+Summary of my work kept here in Readme, while my portfolio site is in development.
 
 ## ArnHart Events → www.arnhartevents.com
 <img width="500" alt="Screenshot 2021-04-23 at 03 36 43" src="https://user-images.githubusercontent.com/43991373/115805379-221b8800-a3e5-11eb-935b-744c780cea67.png">
