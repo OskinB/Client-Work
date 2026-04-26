@@ -9,7 +9,8 @@ When the work was complete and the clients were happy with the results, I handed
 <p align="center">
   <img width="600" alt="Sólheimar Ecovillage" src="https://user-images.githubusercontent.com/43991373/115805309-01ebc900-a3e5-11eb-875f-816ef206909a.png">
 </p>
-A responsive e-commerce site for a sustainable ecovillage community that sells handmade art, herbal cosmetics, and organic coffee. I built the Icelandic version of their website, upgrading their outdated site and adding a webshop to support the community through online sales.<br/><br/>
+A responsive e-commerce site for a sustainable ecovillage community that sells handmade art, herbal cosmetics, and organic coffee. I built the Icelandic version of their website, upgrading their outdated site and adding a webshop to support the community through online sales.<br/>
+In the first month after launching the new website and online store, they matched their entire previous year’s in-store revenue in online sales.<br/><br/>
 🌐 Built with: Shopify + PageFly page builder<br/>
 🎨 Designed by: Me
 
